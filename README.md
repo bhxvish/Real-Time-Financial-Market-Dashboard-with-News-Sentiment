@@ -89,22 +89,5 @@ streamlit run app.py
 
 ---
 
-## Why This Project is Impressive
 
-This dashboard showcases the fusion of:
-
-- Natural Language Processing (sentiment analysis)
-- Real-time financial data processing
-- API integration and dashboard design
-
-Perfect to demonstrate your skills in:
-
-- **Data Science**
-- **Finance & Markets**
-- **NLP**
-- **API Consumption**
-- **Streamlit Frontend**
-
-
----
 
