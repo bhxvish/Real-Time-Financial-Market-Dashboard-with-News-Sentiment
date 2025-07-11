@@ -2,7 +2,7 @@ import requests
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from datetime import datetime
 
-API_KEY = "c61e74854a484ff6a8104642d028e515"
+API_KEY = ""
 NEWS_URL = "https://newsapi.org/v2/everything"
 
 def get_news(ticker):
